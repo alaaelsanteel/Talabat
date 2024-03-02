@@ -1,7 +1,7 @@
 # Talabat
 * Asp.Net.
 * Entity Framework.
-* Code First approche.
+* Code First approache.
 * Onion Architecture.
 * Web APIs
   
