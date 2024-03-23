@@ -1,9 +1,9 @@
 # Talabat
-* Asp.Net.
+* Asp.Net Web API.
 * Entity Framework.
 * Code First approach.
-* Onion Architecture pattern.
-* Generic Repository
-* Web APIs
+* Onion Architecture Pattern.
+* Generic Repository.
+* Specification Design Pattern
   
 The project is not finished yet.
