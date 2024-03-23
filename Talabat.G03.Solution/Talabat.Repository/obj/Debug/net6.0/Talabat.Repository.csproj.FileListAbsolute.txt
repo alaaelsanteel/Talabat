@@ -1,0 +1,15 @@
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+E:\ASP.NET Notes\Course\Session 01\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
